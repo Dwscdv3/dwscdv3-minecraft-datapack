@@ -1,0 +1,26 @@
+start / pause / resume buttons are not placed yet
+
+ddr
+    doc
+-       entity_tags
+-       variables
+    draw
+x       judgement
+x       note
+    init
+x       board
+-       config
+x       game
+        gamepad
+x       note
+x       template
+x   input
+    note
+x       generate
+    update
+x       note
+x   cleanup
+x   gameloop
+x   onbeat
+x   onhit
+x   reposition_player

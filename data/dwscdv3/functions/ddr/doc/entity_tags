@@ -1,0 +1,18 @@
+ddr
+    ddr_note
+        ddr_note_left
+        ddr_note_up
+        ddr_note_down
+        ddr_note_right
+    ddr_judgement
+    ddr_judgeline
+        ddr_judgeline_left
+        ddr_judgeline_up
+        ddr_judgeline_down
+        ddr_judgeline_right
+    ddr_template
+        ddr_template_left
+        ddr_template_up
+        ddr_template_down
+        ddr_template_right
+    ddr_gamepad

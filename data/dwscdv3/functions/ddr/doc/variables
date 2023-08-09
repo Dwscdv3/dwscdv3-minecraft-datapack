@@ -1,0 +1,13 @@
+ddr
+    left
+    up
+    down
+    right
+    tick
+    timing_hit
+?   combo
+?   perfect
+?   great
+?   good
+?   miss
+    _draw_judgement_break
